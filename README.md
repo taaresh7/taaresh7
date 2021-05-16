@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taaresh7
 - 👀 I’m interested in data science , Machine learning and anything else that has something to do with data.
-- 🌱 I’m currently learning about Bayesian statistics 
+- 🌱 I’m currently learning Bayesian statistics and working my way through some ML Books 
 - 📫 How to reach me ... gautam.taaresh@gmail.com
 
 <!---
