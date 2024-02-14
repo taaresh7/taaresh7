@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @taaresh7
 - 👀 I enjoy machine learning and everything that is connected with data.
-- 🌱 I’m currently learning Bayesian statistics and working my way through some ML Books. 
 - 📫 How to reach me ... gautam.taaresh@gmail.com
 
 <!---
